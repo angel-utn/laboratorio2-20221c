@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648768966 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 03/Actividad/funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1648773566 /home/angel/UTN/Github/laboratorio2-20221c/Clase 03/Actividad/funciones.h
+
+1648773726 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 03/Actividad/main.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
