@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1650584587 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/main.cpp
+	<iostream>
+	"estudiante.h"
+
+1650581929 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1650579666 /home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/fecha.h
+	<string>
+
+1650583120 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/estudiante.cpp
+	"estudiante.h"
+
+1650584002 /home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/estudiante.h
+	<string>
+	"fecha.h"
+
+1650588186 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1650588186 /home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/fecha.h
+	<string>
+
+1651187131 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/main.cpp
+	<iostream>
+	<cstdio>
+	"estudiante.h"
+
+1651186227 /home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/estudiante.h
+	<string>
+	"fecha.h"
+
+1651186538 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/estudiante.cpp
+	<cstring>
+	"estudiante.h"
+
