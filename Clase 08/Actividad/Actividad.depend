@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1650584587 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/main.cpp
+	<iostream>
+	"estudiante.h"
+
+1650581929 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1650579666 /home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/fecha.h
+	<string>
+
+1650583120 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/estudiante.cpp
+	"estudiante.h"
+
+1650584002 /home/angel/UTN/Github/laboratorio2-20221c/Clase 06/Actividad/estudiante.h
+	<string>
+	"fecha.h"
+
+1650588186 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1650588186 /home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/fecha.h
+	<string>
+
+1651187131 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/main.cpp
+	<iostream>
+	<cstdio>
+	"estudiante.h"
+
+1651186227 /home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/estudiante.h
+	<string>
+	"fecha.h"
+
+1651186538 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 07/Actividad/estudiante.cpp
+	<cstring>
+	"estudiante.h"
+
+1651794341 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/estudiante.cpp
+	<cstring>
+	<iostream>
+	"estudiante.h"
+
+1651794687 /home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/estudiante.h
+	<string>
+	"fecha.h"
+
+1650588186 /home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/fecha.h
+	<string>
+
+1650588186 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1651794571 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/funciones.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1651791492 /home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/funciones.h
+
+1651789504 /home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1651794605 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 08/Actividad/main.cpp
+	<iostream>
+	<cstdio>
+	"estudiante.h"
+	"rlutil.h"
+	"funciones.h"
+
