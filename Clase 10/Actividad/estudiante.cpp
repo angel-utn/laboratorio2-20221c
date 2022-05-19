@@ -251,11 +251,6 @@ void menu_estudiantes(){
                 listar_estudiante_x_legajo();
             break;
             case 5:
-               for(int i=1; i<=40; i++){
-                  Estudiante e;
-                  e = cargar_estudiante();
-                  e.GuardarEnDisco();
-               }
 
             break;
             case 0:

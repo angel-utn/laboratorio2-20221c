@@ -210,11 +210,7 @@ void menu_examenes(){
                 listar_examen_x_ID();
             break;
             case 4:
-               for(int i=1; i<=500; i++){
-                  Examen e;
-                  e = cargar_examen();
-                  e.GuardarEnDisco();
-               }
+
             break;
             case 0:
                  return;

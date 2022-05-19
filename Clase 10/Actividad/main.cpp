@@ -4,6 +4,7 @@ using namespace std;
 #include "rlutil.h"
 #include "estudiante.h"
 #include "examen.h"
+#include "reportes.h"
 
 int main()
 {
@@ -34,7 +35,7 @@ int main()
                 menu_examenes();
             break;
             case 3:
-                //menu_reportes();
+                menu_reportes();
             break;
             case 0:
                 cout << "¿Confirma salir? (S/N) ";

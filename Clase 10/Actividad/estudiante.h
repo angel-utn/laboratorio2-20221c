@@ -27,6 +27,7 @@ class Estudiante{
 };
 
 /// Declaraciones de funciones globales
+int cantidad_registros_estudiantes();
 bool nuevo_estudiante();
 bool guardar_estudiante(Estudiante aux);
 Estudiante cargar_estudiante();

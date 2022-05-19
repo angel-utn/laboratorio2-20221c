@@ -196,3 +196,71 @@
 	"estudiante.h"
 	"examen.h"
 
+1652996893 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/estudiante.cpp
+	<cstring>
+	<iostream>
+	"estudiante.h"
+	"funciones.h"
+	"rlutil.h"
+
+1652999114 /home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/estudiante.h
+	<string>
+	"fecha.h"
+
+1652994026 /home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/fecha.h
+	<string>
+
+1652994026 /home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/funciones.h
+
+1652994026 /home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1652996886 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/examen.cpp
+	"examen.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	"rlutil.h"
+	"funciones.h"
+
+1652994026 /home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/examen.h
+	<string>
+	"fecha.h"
+
+1652994026 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1652994026 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/funciones.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1652998161 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/main.cpp
+	<iostream>
+	<cstdio>
+	"rlutil.h"
+	"estudiante.h"
+	"examen.h"
+	"reportes.h"
+
+1652998124 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/reportes.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	"reportes.h"
+
+1652997948 /home/angel/UTN/Github/laboratorio2-20221c/Clase 10/Actividad/reportes.h
+
